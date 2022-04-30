@@ -1,2 +1,0 @@
-#merhabalar mirader
-#ikinci satır
